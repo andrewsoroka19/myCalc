@@ -6,9 +6,6 @@
 //  Copyright © 2016 admin. All rights reserved.
 //
 
-#ifndef ExpressionHandler_h
-#define ExpressionHandler_h
-
 #import <Foundation/Foundation.h>
 
 @interface ExpressionHandler : NSObject
@@ -20,6 +17,3 @@
 + (NSNumber *)count:(NSString *)expression;
 
 @end
-
-
-#endif /* ExpressionHandler_h */

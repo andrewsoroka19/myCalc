@@ -112,15 +112,13 @@
 		8405648E1D12CE2000214AD8 /* Calc2 */ = {
 			isa = PBXGroup;
 			children = (
-				840564921D12CE2000214AD8 /* AppDelegate.h */,
-				840564931D12CE2000214AD8 /* AppDelegate.m */,
 				840564951D12CE2000214AD8 /* ViewController.h */,
 				840564961D12CE2000214AD8 /* ViewController.m */,
 				840564981D12CE2000214AD8 /* Main.storyboard */,
-				84A3D5CD1D19454C00E49A20 /* Calc2 NewVariant.storyboard */,
 				8405649B1D12CE2000214AD8 /* Assets.xcassets */,
 				8405649D1D12CE2000214AD8 /* LaunchScreen.storyboard */,
 				840564A01D12CE2000214AD8 /* Info.plist */,
+				840564921D12CE2000214AD8 /* AppDelegate.h */,
 				8405648F1D12CE2000214AD8 /* Supporting Files */,
 				84F6235E1D25360100D8ECB5 /* SecondViewController.h */,
 				84F6235F1D25360100D8ECB5 /* SecondViewController.m */,
@@ -135,6 +133,8 @@
 		8405648F1D12CE2000214AD8 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				840564931D12CE2000214AD8 /* AppDelegate.m */,
+				84A3D5CD1D19454C00E49A20 /* Calc2 NewVariant.storyboard */,
 				840564901D12CE2000214AD8 /* main.m */,
 			);
 			name = "Supporting Files";

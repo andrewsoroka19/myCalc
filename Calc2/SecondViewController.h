@@ -15,6 +15,4 @@
 
 @property (strong, nonatomic) Plot* myViewForPlot;
 
-//- (void)setPlotExpression:(NSString *)plotExpression;
-
 @end
