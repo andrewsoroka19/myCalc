@@ -11,7 +11,7 @@
 @interface Plot : UIView
 
 @property (strong, nonatomic) NSString *expression;
-@property (strong, nonatomic) NSString *string;
+
 
 @end
 
